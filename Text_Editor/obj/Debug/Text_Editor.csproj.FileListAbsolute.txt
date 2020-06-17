@@ -1,0 +1,15 @@
+D:\C# Proj\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+D:\C# Proj\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+D:\C# Proj\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csprojAssemblyReference.cache
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\MainWindow.g.cs
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\App.g.cs
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor_MarkupCompile.cache
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor_MarkupCompile.lref
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\MainWindow.baml
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.g.resources
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+D:\C# Proj\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
